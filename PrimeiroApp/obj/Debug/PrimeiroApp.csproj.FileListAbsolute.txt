@@ -1,0 +1,107 @@
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.exe.config
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.exe
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.pdb
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.Properties.Resources.resources
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.GenerateResource.Cache
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.exe
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.pdb
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPrimApp.resources
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmSegApp.resources
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmLogin.resources
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmTestVariavel.resources
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmMostrarInicializaçao.resources
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPegarNome.resources
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmMostrarConstante.resources
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCalculeArea.resources
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCalculadora.resources
+C:\Users\guilherme.rmacena\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPrincipal.resources
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.exe.config
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.exe
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.pdb
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.exe
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.pdb
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.csprojResolveAssemblyReference.cache
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCalculadora.resources
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCalculeArea.resources
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmLogin.resources
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmMostrarConstante.resources
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmMostrarInicializaçao.resources
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPegarNome.resources
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPrimApp.resources
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPrincipal.resources
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmSegApp.resources
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmTestVariavel.resources
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.Properties.Resources.resources
+C:\Users\kawan.psmedeiros1\Documents\ProjectTI84\ti842\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.GenerateResource.Cache
+F:\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.exe.config
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.exe
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.pdb
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.csprojResolveAssemblyReference.cache
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCadForm.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCalculadora.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCalculeArea.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmLogin.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmMostrarConstante.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmMostrarInicializaçao.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPegarNome.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPrimApp.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPrincipal.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmSegApp.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmTestVariavel.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.Properties.Resources.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.GenerateResource.Cache
+F:\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.exe
+F:\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.pdb
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPesquisa.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmJanelaMenu.resources
+F:\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmArquivo.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.exe.config
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.exe
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.pdb
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.exe
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.pdb
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.csprojResolveAssemblyReference.cache
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmArquivo.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCadForm.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCalculadora.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCalculeArea.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmJanelaMenu.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmLogin.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmMostrarConstante.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmMostrarInicializaçao.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPegarNome.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPesquisa.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPrimApp.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPrincipal.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmSegApp.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmTestVariavel.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.Properties.Resources.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.GenerateResource.Cache
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCalculaMS.resources
+C:\Users\guilherme.rmacena\Downloads\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.CoddeAlmento.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.exe.config
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.exe
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.pdb
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.exe
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\bin\Debug\PrimeiroApp.pdb
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.CoddeAlmento.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmArquivo.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCadForm.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCalculadora.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCalculaMS.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmCalculeArea.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmJanelaMenu.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmLogin.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmMostrarConstante.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmMostrarInicializaçao.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPegarNome.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPesquisa.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPrimApp.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmPrincipal.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmSegApp.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmTestVariavel.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.Properties.Resources.resources
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.csproj.GenerateResource.Cache
+C:\Users\Luiz Henrique\Documents\ProjetoTI84\PrimeiroApp\obj\Debug\PrimeiroApp.frmRaio2.resources
